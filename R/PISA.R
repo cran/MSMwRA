@@ -1,0 +1,22 @@
+#' @title The PISA 2012 Results of OECD Countries
+#' 
+#' @description The data set is used in Sample 10.2 and given in Table 10.3. 
+#' The data set consists of 3 variables and 34 observations. This data contains PISA 2012
+#' results published by OECD.
+#' 
+#' @docType data
+#' @keywords datasets
+#' @name PISA
+#' @usage PISA
+#' @format A data frame with 34 rows and 4 variables. The variables
+#' are as follows:
+#' \describe{
+#'   \item{COUNTRY}{The names of countries (in Turkish)}
+#'   \item{Reading}{The reading scores of countries in PISA 2012} 
+#'   \item{Science}{The science scores of countries in PISA 2012}
+#'   \item{Mathematics}{The mathematics scores of countries in PISA 2012}
+#' }
+#'
+#' @source The data set is taken from PISA 2012 Report published by OECD and 
+#' used in the book entitled Multivariate Statistical Methods with R Applications (R Uygulamalari ile Cok Degiskenli Istatistiksel Yontemler), H.Bulut (2018).
+NULL
