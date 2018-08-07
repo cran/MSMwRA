@@ -6,15 +6,15 @@
 #' 
 #' @docType data
 #' @keywords datasets
-#' @name agriculture
-#' @usage agriculture
+#' @name Agriculture
+#' @usage Agriculture
 #' @format A data frame with 9 rows and 4 variables. The variables
 #' are as follows:
 #' \describe{
 #'   \item{Y}{The yield values (Dependent variables values)}
 #'   \item{X1}{The fertilizer values (The first independent variables values)} 
 #'   \item{X2}{The irrigation values (The second independent variables values)}
-#'   \item{X3}{The experience values (The third independent values)}
+#'   \item{D}{The experience values (The third independent values)}
 #' }
 #'
 #' @source The data set is used in the book entitled
