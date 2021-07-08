@@ -4,14 +4,16 @@
 \name{PISA}
 \alias{PISA}
 \title{The PISA 2012 Results of OECD Countries}
-\format{A data frame with 34 rows and 4 variables. The variables
+\format{
+A data frame with 34 rows and 4 variables. The variables
 are as follows:
 \describe{
   \item{COUNTRY}{The names of countries (in Turkish)}
   \item{Reading}{The reading scores of countries in PISA 2012} 
   \item{Science}{The science scores of countries in PISA 2012}
   \item{Mathematics}{The mathematics scores of countries in PISA 2012}
-}}
+}
+}
 \source{
 The data set is taken from PISA 2012 Report published by OECD and 
 used in the book entitled Multivariate Statistical Methods with R Applications (R Uygulamalari ile Cok Degiskenli Istatistiksel Yontemler), H.Bulut (2018).

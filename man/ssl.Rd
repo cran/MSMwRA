@@ -4,7 +4,8 @@
 \name{ssl}
 \alias{ssl}
 \title{Security and Social Life Indicators of Cities in Turkey}
-\format{A data frame with 81 rows and 9 variables. The variables
+\format{
+A data frame with 81 rows and 9 variables. The variables
 are as follows:
 \describe{
   \item{Cities}{The names of cities in Turkey}
@@ -16,7 +17,8 @@ are as follows:
   \item{Y2}{Shopping center area per thousand people} 
   \item{Y3}{Satisfaction with social relations} 
   \item{Y4}{Satisfaction with social life} 
-}}
+}
+}
 \source{
 The data set is taken from Turkish Statistical Institute (TUIK) 
 and used in the book entitled Multivariate Statistical Methods with R Applications (R Uygulamalari ile Cok Degiskenli Istatistiksel Yontemler), H.Bulut (2018).

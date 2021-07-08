@@ -4,13 +4,15 @@
 \name{SER}
 \alias{SER}
 \title{Sex, Education and Reading Data}
-\format{A data frame with 21 rows and 3 variables. The variables
+\format{
+A data frame with 21 rows and 3 variables. The variables
 are as follows:
 \describe{
   \item{Sex}{The sex of observations}
   \item{Education}{The education level of observations} 
   \item{Reading}{The reading case of observations} 
-}}
+}
+}
 \source{
 The data set is used in the book entitled
 Multivariate Statistical Methods with R Applications (R Uygulamalari ile Cok Degiskenli Istatistiksel Yontemler), H.Bulut (2018).

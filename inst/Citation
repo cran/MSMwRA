@@ -1,0 +1,17 @@
+citHeader("To cite MSMwRA in publications use:") 
+
+citEntry(entry = "book",
+  title    = "Multivariate Statistical Methods with R Applications",
+  author       = personList(as.person("Hasan Bulut")),
+  publisher    = "Nobel Academic Publishing",
+  year         = "2018",
+  ISBN         = "978-605-7928-93-1",
+
+  textVersion  =
+  paste("Hasan Bulut (2018).",
+        "Multivariate Statistical Methods with R Applications",
+        "Nobel Academic Publishing",
+         "ISBN:978-605-7928-93-1")
+)
+
+

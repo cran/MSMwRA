@@ -4,7 +4,9 @@
 \name{Sim1}
 \alias{Sim1}
 \title{Simulated Data 1}
-\format{A data frame with 10 rows and 3 variables.}
+\format{
+A data frame with 10 rows and 3 variables.
+}
 \source{
 The data set is used in the book entitled
 Multivariate Statistical Methods with R Applications (R Uygulamalari ile Cok Degiskenli Istatistiksel Yontemler), H.Bulut (2018).

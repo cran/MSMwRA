@@ -4,14 +4,16 @@
 \name{ecodata}
 \alias{ecodata}
 \title{Economic Indicators of Cities in Turkey}
-\format{A data frame with 81 rows and 4 variables. The variables
+\format{
+A data frame with 81 rows and 4 variables. The variables
 are as follows:
 \describe{
   \item{Cities}{The names of cities in Turkey}
   \item{X1}{The employment rate in cities} 
   \item{X2}{The unemployment rate in cities} 
   \item{X3}{The satisfaction rate from job} 
-}}
+}
+}
 \source{
 The data set is taken from Turkish Statistical Institute (TUIK) 
 and used in the book entitled Multivariate Statistical Methods with R Applications (R Uygulamalari ile Cok Degiskenli Istatistiksel Yontemler), H.Bulut (2018).
